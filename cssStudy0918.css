@@ -1,0 +1,44 @@
+cssStudy0918{
+    background-color: white;
+}
+
+Exercise {
+
+    width : 300px;
+    height: 100px;
+    display: block;
+    background-color: white;
+    font-weight:bold;
+    color:green;
+    padding-top :20px;
+    margin-left: 50px;
+    margin-top:20px;
+    margin-bottom: 40px;
+    border: 8px dotted slateblue;
+    transform: skewX(30deg);
+}
+
+MEAL {
+    width: 300px;
+    height: 100px;
+    display: block;
+    transform: rotate(-10deg);
+    background-color: slateblue;
+    margin-left: 60px;
+    margin-bottom: 100px;
+    padding-top:20px;
+    border: 4px dotted blue;
+}
+
+READING {
+    width: 500px;
+    height: 1000 px;
+    display: block;
+    background-color: lightgrey;
+    color: lightblue;
+    transform:scaleY(2);
+    border: 5px dotted red;
+    margin-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
