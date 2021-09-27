@@ -1,0 +1,83 @@
+            #content{
+                display: block;
+                width: 100%;
+                height: 100%;
+                background-color: black;
+            }
+
+
+            div{
+                position: relative;
+                font-size: 50px;
+                color: ghostwhite;
+                background-color: black;
+                width: 100%;
+                margin: 0 auto;
+            }
+
+            #pSpan{
+                display:inline-block;
+                width: 38%;
+                margin-top: 20%;
+                text-align: bottom;
+                text-align: right;
+                
+            }
+
+            #o1Span{
+                display: inline-block;
+                width:18%;
+                margin-top: 20%;
+                text-align: center;
+                text-align: bottom;
+            }
+            #rSpan{
+                display: inline-block;
+                width: 38%;
+                margin-top: 20%;
+                text-align: left;
+                text-align: bottom;
+            }
+            #tSpan{
+                display: inline-block;
+                width: 38%;
+                margin-top: 50px;
+                margin-bottom: 50px;
+                text-align: right;
+                text-align: ;
+            }
+            #fSpan{
+                display: inline-block;
+                width: 18%;
+                margin-top: 50px;
+                margin-bottom: 50px;
+                text-align: center;
+                text-align: ;
+            }
+            #o2Span{
+                display: inline-block;
+                width: 38%;
+                margin-top: 50px;
+                margin-bottom: 50px;
+                text-align: left;
+                text-align: ;
+            }
+            #lSpan{
+                display: inline-block;
+                width: 38%;
+                margin-bottom: 20%;
+                text-align: top;
+                text-align: right;
+            }
+            #iSpan{
+                display: inline-block;
+                width: 18%;
+                margin-bottom: 20%;
+                text-align: center;
+            }
+            #o3Span{
+                display: inline-block;
+                width: 20%;
+                text-align: left;
+                text-align: bottom;
+            }
